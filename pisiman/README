@@ -1,0 +1,16 @@
+Pardusman - Pardus ISO Creator
+==============================
+
+Requirements
+------------
+ - cdrkit
+ - syslinux
+ - libisoburn
+ - python-sip
+ - squashfs-tools
+ - pyqtermwidget5 (Required for GUI)
+ - python-requests
+ - python-urllib3
+ - python-chardet
+ - python-idna
+ - qtermwidget5
